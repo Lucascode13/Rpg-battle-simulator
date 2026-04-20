@@ -1,5 +1,7 @@
 # Simulador de Batalha RPG - C# .NET 8
 
+Simulador de batalha RPG em C# demonstrando herança, polimorfismo e downcasting.
+
 Projeto desenvolvido para demonstrar na prática os conceitos de **Orientação a Objetos** em C#.
 
 ## Conceitos aplicados
