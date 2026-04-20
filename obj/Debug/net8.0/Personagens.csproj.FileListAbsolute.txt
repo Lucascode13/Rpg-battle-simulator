@@ -1,0 +1,14 @@
+C:\Users\lucas\RiderProjects\rpg\bin\Debug\net8.0\Personagens.exe
+C:\Users\lucas\RiderProjects\rpg\bin\Debug\net8.0\Personagens.deps.json
+C:\Users\lucas\RiderProjects\rpg\bin\Debug\net8.0\Personagens.runtimeconfig.json
+C:\Users\lucas\RiderProjects\rpg\bin\Debug\net8.0\Personagens.dll
+C:\Users\lucas\RiderProjects\rpg\bin\Debug\net8.0\Personagens.pdb
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.dll
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\refint\Personagens.dll
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.pdb
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\Personagens.genruntimeconfig.cache
+C:\Users\lucas\RiderProjects\rpg\obj\Debug\net8.0\ref\Personagens.dll
